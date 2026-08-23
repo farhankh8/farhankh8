@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1720" height="168" viewBox="0 0 1720 168">
+<style>
+text{font-family:'Cascadia Code','JetBrains Mono',Consolas,Menlo,monospace}
+.r1{animation:left 19s linear infinite}
+.r2{animation:right 17s linear infinite}
+@keyframes left{from{transform:translateX(0)}to{transform:translateX(-1759px)}}
+@keyframes right{from{transform:translateX(-1895px)}to{transform:translateX(0)}}
+</style>
+<clipPath id="clip"><rect x="0" y="0" width="1720" height="168" rx="14"/></clipPath>
+<rect x="0.5" y="0.5" width="1719" height="167" rx="14" fill="#0d1117" stroke="#30363d"/>
+<g clip-path="url(#clip)">
+<g class="r1">
+<g transform="translate(0,0)">
+<rect x="0" y="18" width="156" height="46" rx="23" fill="none" stroke="#7ee787" stroke-width="2"/><text x="78" y="50" font-size="24" fill="#7ee787" text-anchor="middle">React.js</text>
+<rect x="172" y="18" width="143" height="46" rx="23" fill="none" stroke="#79c0ff" stroke-width="2"/><text x="244" y="50" font-size="24" fill="#79c0ff" text-anchor="middle">Next.js</text>
+<rect x="331" y="18" width="182" height="46" rx="23" fill="none" stroke="#d2a8ff" stroke-width="2"/><text x="422" y="50" font-size="24" fill="#d2a8ff" text-anchor="middle">TypeScript</text>
+<rect x="529" y="18" width="182" height="46" rx="23" fill="none" stroke="#ffa657" stroke-width="2"/><text x="620" y="50" font-size="24" fill="#ffa657" text-anchor="middle">JavaScript</text>
+<rect x="727" y="18" width="143" height="46" rx="23" fill="none" stroke="#39c5cf" stroke-width="2"/><text x="798" y="50" font-size="24" fill="#39c5cf" text-anchor="middle">Node.js</text>
+<rect x="886" y="18" width="182" height="46" rx="23" fill="none" stroke="#f778ba" stroke-width="2"/><text x="977" y="50" font-size="24" fill="#f778ba" text-anchor="middle">Express.js</text>
+<rect x="1084" y="18" width="143" height="46" rx="23" fill="none" stroke="#7ee787" stroke-width="2"/><text x="1156" y="50" font-size="24" fill="#7ee787" text-anchor="middle">MongoDB</text>
+<rect x="1243" y="18" width="182" height="46" rx="23" fill="none" stroke="#79c0ff" stroke-width="2"/><text x="1334" y="50" font-size="24" fill="#79c0ff" text-anchor="middle">PostgreSQL</text>
+<rect x="1441" y="18" width="156" height="46" rx="23" fill="none" stroke="#d2a8ff" stroke-width="2"/><text x="1519" y="50" font-size="24" fill="#d2a8ff" text-anchor="middle">Firebase</text>
+<rect x="1613" y="18" width="130" height="46" rx="23" fill="none" stroke="#ffa657" stroke-width="2"/><text x="1678" y="50" font-size="24" fill="#ffa657" text-anchor="middle">Python</text>
+</g>
+<g transform="translate(1759,0)">
+<rect x="0" y="18" width="156" height="46" rx="23" fill="none" stroke="#7ee787" stroke-width="2"/><text x="78" y="50" font-size="24" fill="#7ee787" text-anchor="middle">React.js</text>
+<rect x="172" y="18" width="143" height="46" rx="23" fill="none" stroke="#79c0ff" stroke-width="2"/><text x="244" y="50" font-size="24" fill="#79c0ff" text-anchor="middle">Next.js</text>
+<rect x="331" y="18" width="182" height="46" rx="23" fill="none" stroke="#d2a8ff" stroke-width="2"/><text x="422" y="50" font-size="24" fill="#d2a8ff" text-anchor="middle">TypeScript</text>
+<rect x="529" y="18" width="182" height="46" rx="23" fill="none" stroke="#ffa657" stroke-width="2"/><text x="620" y="50" font-size="24" fill="#ffa657" text-anchor="middle">JavaScript</text>
+<rect x="727" y="18" width="143" height="46" rx="23" fill="none" stroke="#39c5cf" stroke-width="2"/><text x="798" y="50" font-size="24" fill="#39c5cf" text-anchor="middle">Node.js</text>
+<rect x="886" y="18" width="182" height="46" rx="23" fill="none" stroke="#f778ba" stroke-width="2"/><text x="977" y="50" font-size="24" fill="#f778ba" text-anchor="middle">Express.js</text>
+<rect x="1084" y="18" width="143" height="46" rx="23" fill="none" stroke="#7ee787" stroke-width="2"/><text x="1156" y="50" font-size="24" fill="#7ee787" text-anchor="middle">MongoDB</text>
+<rect x="1243" y="18" width="182" height="46" rx="23" fill="none" stroke="#79c0ff" stroke-width="2"/><text x="1334" y="50" font-size="24" fill="#79c0ff" text-anchor="middle">PostgreSQL</text>
+<rect x="1441" y="18" width="156" height="46" rx="23" fill="none" stroke="#d2a8ff" stroke-width="2"/><text x="1519" y="50" font-size="24" fill="#d2a8ff" text-anchor="middle">Firebase</text>
+<rect x="1613" y="18" width="130" height="46" rx="23" fill="none" stroke="#ffa657" stroke-width="2"/><text x="1678" y="50" font-size="24" fill="#ffa657" text-anchor="middle">Python</text>
+</g>
+</g>
+<g class="r2">
+<g transform="translate(0,0)">
+<rect x="0" y="80" width="91" height="46" rx="23" fill="none" stroke="#ffa657" stroke-width="2"/><text x="46" y="112" font-size="24" fill="#ffa657" text-anchor="middle">AWS</text>
+<rect x="107" y="80" width="117" height="46" rx="23" fill="none" stroke="#39c5cf" stroke-width="2"/><text x="166" y="112" font-size="24" fill="#39c5cf" text-anchor="middle">Azure</text>
+<rect x="240" y="80" width="91" height="46" rx="23" fill="none" stroke="#f778ba" stroke-width="2"/><text x="286" y="112" font-size="24" fill="#f778ba" text-anchor="middle">GCP</text>
+<rect x="347" y="80" width="130" height="46" rx="23" fill="none" stroke="#7ee787" stroke-width="2"/><text x="412" y="112" font-size="24" fill="#7ee787" text-anchor="middle">Docker</text>
+<rect x="493" y="80" width="130" height="46" rx="23" fill="none" stroke="#79c0ff" stroke-width="2"/><text x="558" y="112" font-size="24" fill="#79c0ff" text-anchor="middle">Vercel</text>
+<rect x="639" y="80" width="91" height="46" rx="23" fill="none" stroke="#d2a8ff" stroke-width="2"/><text x="684" y="112" font-size="24" fill="#d2a8ff" text-anchor="middle">Git</text>
+<rect x="746" y="80" width="169" height="46" rx="23" fill="none" stroke="#ffa657" stroke-width="2"/><text x="830" y="112" font-size="24" fill="#ffa657" text-anchor="middle">Gemini AI</text>
+<rect x="931" y="80" width="247" height="46" rx="23" fill="none" stroke="#39c5cf" stroke-width="2"/><text x="1054" y="112" font-size="24" fill="#39c5cf" text-anchor="middle">LLM Integration</text>
+<rect x="1194" y="80" width="91" height="46" rx="23" fill="none" stroke="#f778ba" stroke-width="2"/><text x="1240" y="112" font-size="24" fill="#f778ba" text-anchor="middle">NLP</text>
+<rect x="1301" y="80" width="156" height="46" rx="23" fill="none" stroke="#7ee787" stroke-width="2"/><text x="1379" y="112" font-size="24" fill="#7ee787" text-anchor="middle">Power BI</text>
+<rect x="1473" y="80" width="156" height="46" rx="23" fill="none" stroke="#79c0ff" stroke-width="2"/><text x="1551" y="112" font-size="24" fill="#79c0ff" text-anchor="middle">SAP FICO</text>
+<rect x="1645" y="80" width="234" height="46" rx="23" fill="none" stroke="#d2a8ff" stroke-width="2"/><text x="1762" y="112" font-size="24" fill="#d2a8ff" text-anchor="middle">Advanced Excel</text>
+</g>
+<g transform="translate(1895,0)">
+<rect x="0" y="80" width="91" height="46" rx="23" fill="none" stroke="#ffa657" stroke-width="2"/><text x="46" y="112" font-size="24" fill="#ffa657" text-anchor="middle">AWS</text>
+<rect x="107" y="80" width="117" height="46" rx="23" fill="none" stroke="#39c5cf" stroke-width="2"/><text x="166" y="112" font-size="24" fill="#39c5cf" text-anchor="middle">Azure</text>
+<rect x="240" y="80" width="91" height="46" rx="23" fill="none" stroke="#f778ba" stroke-width="2"/><text x="286" y="112" font-size="24" fill="#f778ba" text-anchor="middle">GCP</text>
+<rect x="347" y="80" width="130" height="46" rx="23" fill="none" stroke="#7ee787" stroke-width="2"/><text x="412" y="112" font-size="24" fill="#7ee787" text-anchor="middle">Docker</text>
+<rect x="493" y="80" width="130" height="46" rx="23" fill="none" stroke="#79c0ff" stroke-width="2"/><text x="558" y="112" font-size="24" fill="#79c0ff" text-anchor="middle">Vercel</text>
+<rect x="639" y="80" width="91" height="46" rx="23" fill="none" stroke="#d2a8ff" stroke-width="2"/><text x="684" y="112" font-size="24" fill="#d2a8ff" text-anchor="middle">Git</text>
+<rect x="746" y="80" width="169" height="46" rx="23" fill="none" stroke="#ffa657" stroke-width="2"/><text x="830" y="112" font-size="24" fill="#ffa657" text-anchor="middle">Gemini AI</text>
+<rect x="931" y="80" width="247" height="46" rx="23" fill="none" stroke="#39c5cf" stroke-width="2"/><text x="1054" y="112" font-size="24" fill="#39c5cf" text-anchor="middle">LLM Integration</text>
+<rect x="1194" y="80" width="91" height="46" rx="23" fill="none" stroke="#f778ba" stroke-width="2"/><text x="1240" y="112" font-size="24" fill="#f778ba" text-anchor="middle">NLP</text>
+<rect x="1301" y="80" width="156" height="46" rx="23" fill="none" stroke="#7ee787" stroke-width="2"/><text x="1379" y="112" font-size="24" fill="#7ee787" text-anchor="middle">Power BI</text>
+<rect x="1473" y="80" width="156" height="46" rx="23" fill="none" stroke="#79c0ff" stroke-width="2"/><text x="1551" y="112" font-size="24" fill="#79c0ff" text-anchor="middle">SAP FICO</text>
+<rect x="1645" y="80" width="234" height="46" rx="23" fill="none" stroke="#d2a8ff" stroke-width="2"/><text x="1762" y="112" font-size="24" fill="#d2a8ff" text-anchor="middle">Advanced Excel</text>
+</g>
+</g>
+</g>
+</svg>

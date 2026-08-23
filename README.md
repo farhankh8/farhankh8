@@ -13,12 +13,23 @@
   </tr>
 </table>
 
-<br>
+<br><br>
+
+<h3><code>farhan@github ~ $ ls ./skills --sort=stars</code></h3>
+<img src="./skills-ticker.svg" width="860" alt="scrolling tech stack ticker" />
+
+<br><br>
+
+<h3><code>farhan@github ~ $ cat ~/certifications.log</code></h3>
+<img src="./certifications.svg" width="640" alt="certifications panel" />
+
+<br><br>
 
 <h3><code>farhan@github ~ $ cat contact.txt</code></h3>
 
-<a href="mailto:khmohammadfarhan@gmail.com"><img src="https://img.shields.io/badge/Email-khmohammadfarhan%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="mailto:khmohammadfarhan11@gmail.com"><img src="https://img.shields.io/badge/Email-khmohammadfarhan11%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://www.linkedin.com/in/khmohammadfarhan"><img src="https://img.shields.io/badge/LinkedIn-KH%20Mohammad%20Farhan-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/farhankh8?tab=repositories"><img src="https://img.shields.io/badge/Projects-farhankh8-181717?style=for-the-badge&logo=github&logoColor=white" alt="Projects" /></a>
 
 </div>
 

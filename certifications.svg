@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="472" viewBox="0 0 1280 472">
+<style>text{font-family:'Cascadia Code','JetBrains Mono',Consolas,'DejaVu Sans Mono',Menlo,monospace}</style>
+<style>.ln{opacity:0;animation:print .45s ease-out forwards}@keyframes print{from{opacity:0;transform:translateY(12px)}to{opacity:1;transform:none}}</style>
+<rect x="0.5" y="0.5" width="1279" height="471" rx="10" fill="#0d1117" stroke="#30363d"/>
+<g clip-path="url(#round)">
+<clipPath id="round"><rect x="0.5" y="0.5" width="1279" height="471" rx="10"/></clipPath>
+<rect width="1280" height="60" fill="#161b22"/>
+<circle cx="32" cy="30" r="12" fill="#ff5f56"/>
+<circle cx="68" cy="30" r="12" fill="#ffbd2e"/>
+<circle cx="104" cy="30" r="12" fill="#27c93f"/>
+<text x="421" y="39" font-size="26" fill="#8b949e">farhan@github ~/certifications</text>
+<line x1="0" y1="60" x2="1280" y2="60" stroke="#30363d"/>
+<text class="ln" x="36" y="96" font-size="26" fill="#8b949e">$ cat certificates/*.crt</text>
+<g class="ln" style="animation-delay:0.25s">
+<text x="36" y="142.8" font-size="26" font-weight="bold" fill="#7ee787">[✓]</text>
+<text x="76" y="142.8" font-size="26" font-weight="bold" fill="#e6edf3">AWS Solutions Architecture</text>
+<text x="76" y="172.70000000000002" font-size="20" fill="#ff9900">■ Amazon Web Services</text>
+<text x="1108" y="172.70000000000002" font-size="20" fill="#8b949e">Dec 2025</text>
+</g>
+<g class="ln" style="animation-delay:0.39s">
+<text x="36" y="190.8" font-size="26" font-weight="bold" fill="#7ee787">[✓]</text>
+<text x="76" y="190.8" font-size="26" font-weight="bold" fill="#e6edf3">Generative AI Engineering</text>
+<text x="76" y="220.70000000000002" font-size="20" fill="#0f62fe">■ IBM</text>
+<text x="1108" y="220.70000000000002" font-size="20" fill="#8b949e">Dec 2025</text>
+</g>
+<g class="ln" style="animation-delay:0.53s">
+<text x="36" y="238.8" font-size="26" font-weight="bold" fill="#7ee787">[✓]</text>
+<text x="76" y="238.8" font-size="26" font-weight="bold" fill="#e6edf3">AI &amp; ML Engineering</text>
+<text x="76" y="268.7" font-size="20" fill="#00a4ef">■ Microsoft</text>
+<text x="1108" y="268.7" font-size="20" fill="#8b949e">Dec 2025</text>
+</g>
+<g class="ln" style="animation-delay:0.67s">
+<text x="36" y="286.8" font-size="26" font-weight="bold" fill="#7ee787">[✓]</text>
+<text x="76" y="286.8" font-size="26" font-weight="bold" fill="#e6edf3">Data Analytics Professional</text>
+<text x="76" y="316.7" font-size="20" fill="#34a853">■ Google</text>
+<text x="1108" y="316.7" font-size="20" fill="#8b949e">Oct 2025</text>
+</g>
+<g class="ln" style="animation-delay:0.81s">
+<text x="36" y="334.8" font-size="26" font-weight="bold" fill="#7ee787">[✓]</text>
+<text x="76" y="334.8" font-size="26" font-weight="bold" fill="#e6edf3">IT Automation with Python</text>
+<text x="76" y="364.7" font-size="20" fill="#ea4335">■ Google</text>
+<text x="1108" y="364.7" font-size="20" fill="#8b949e">Oct 2025</text>
+</g>
+<g class="ln" style="animation-delay:0.95s">
+<text x="36" y="382.8" font-size="26" font-weight="bold" fill="#7ee787">[✓]</text>
+<text x="76" y="382.8" font-size="26" font-weight="bold" fill="#e6edf3">PM · Front-End · Tech Consulting</text>
+<text x="76" y="412.7" font-size="20" fill="#7ee787">■ Google · IBM · Deloitte</text>
+<text x="1108" y="412.7" font-size="20" fill="#8b949e">2024-25</text>
+</g>
+<text class="ln" style="animation-delay:1.4s" x="36" y="441.2" font-size="26" fill="#8b949e">6 verified ✔</text>
+</g></svg>

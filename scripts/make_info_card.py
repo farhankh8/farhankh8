@@ -21,12 +21,13 @@ HOST = "~/whoami"
 
 ROWS = [
     ("now",       "Final-year BCA @ Yenepoya College", "#7ee787"),
-    ("focus",     "AI · Cloud Computing · DevOps", "#79c0ff"),
-    ("stack",     "Python · JS/TS · React · Node · Docker", "#d2a8ff"),
-    ("building",  "tripgenius · roamind · freelanceflow", "#ffa657"),
-    ("learning",  "BI & FinTech · Tally · Zoho Books · SAP", "#7ee787"),
-    ("location",  "Mangalore, India · UTC+5:30", "#79c0ff"),
-    ("contact",   "khmohammadfarhan@gmail.com", "#d2a8ff"),
+    ("focus",     "Full-Stack · AI/ML · Cloud Computing", "#79c0ff"),
+    ("stack",     "React · Next.js · Node · Mongo · Firebase", "#d2a8ff"),
+    ("ai",        "Gemini AI · LLMs · NLP · Generative AI", "#ffa657"),
+    ("cloud",     "AWS · Azure · GCP · Docker · Vercel", "#7ee787"),
+    ("learning",  "SAP FICO · ERP · Power BI · Tally · Excel", "#79c0ff"),
+    ("building",  "SaaS models · Data & Business Analytics", "#d2a8ff"),
+    ("open to",   "India · UAE · GCC opportunities", "#ffa657"),
 ]
 
 SWATCHES = ["#1f6feb", "#a371f7", "#db61a2", "#f0883e",
