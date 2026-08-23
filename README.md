@@ -21,3 +21,11 @@
 <a href="https://www.linkedin.com/in/khmohammadfarhan"><img src="https://img.shields.io/badge/LinkedIn-KH%20Mohammad%20Farhan-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
 </div>
+
+## 🤝 Contributing
+
+Improvements are welcome!
+
+1. Fork the repo and create your branch (`git checkout -b my-fix`)
+2. Commit your changes
+3. Open a pull request describing what you changed
