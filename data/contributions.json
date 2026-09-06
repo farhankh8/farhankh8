@@ -1,42 +1,7 @@
 {
   "username": "farhankh8",
-  "fetched_at": "2026-09-05",
+  "fetched_at": "2026-09-06",
   "days": [
-    {
-      "date": "2025-08-31",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-09-01",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-09-02",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-09-03",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-09-04",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-09-05",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-09-06",
-      "count": 0,
-      "level": 0
-    },
     {
       "date": "2025-09-07",
       "count": 0,
@@ -1854,21 +1819,25 @@
     },
     {
       "date": "2026-09-05",
+      "count": 1,
+      "level": 1
+    },
+    {
+      "date": "2026-09-06",
       "count": 0,
       "level": 0
     }
   ],
   "stats": {
-    "total": 281,
-    "active_days": 35,
+    "total": 282,
+    "active_days": 36,
     "best_day": {
       "date": "2026-04-19",
       "count": 60
     },
-    "current_streak": 13,
-    "longest_streak": 13,
+    "current_streak": 14,
+    "longest_streak": 14,
     "monthly": {
-      "2025-08": 0,
       "2025-09": 0,
       "2025-10": 0,
       "2025-11": 0,
@@ -1881,7 +1850,7 @@
       "2026-06": 0,
       "2026-07": 0,
       "2026-08": 61,
-      "2026-09": 4
+      "2026-09": 5
     }
   }
 }
