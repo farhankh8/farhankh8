@@ -1,42 +1,7 @@
 {
   "username": "farhankh8",
-  "fetched_at": "2026-11-07",
+  "fetched_at": "2026-11-08",
   "days": [
-    {
-      "date": "2025-11-02",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-11-03",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-11-04",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-11-05",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-11-06",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-11-07",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-11-08",
-      "count": 0,
-      "level": 0
-    },
     {
       "date": "2025-11-09",
       "count": 0,
@@ -1854,19 +1819,24 @@
     },
     {
       "date": "2026-11-07",
+      "count": 1,
+      "level": 1
+    },
+    {
+      "date": "2026-11-08",
       "count": 0,
       "level": 0
     }
   ],
   "stats": {
-    "total": 344,
-    "active_days": 98,
+    "total": 345,
+    "active_days": 99,
     "best_day": {
       "date": "2026-04-19",
       "count": 60
     },
-    "current_streak": 76,
-    "longest_streak": 76,
+    "current_streak": 77,
+    "longest_streak": 77,
     "monthly": {
       "2025-11": 0,
       "2025-12": 18,
@@ -1880,7 +1850,7 @@
       "2026-08": 61,
       "2026-09": 30,
       "2026-10": 31,
-      "2026-11": 6
+      "2026-11": 7
     }
   }
 }
